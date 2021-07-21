@@ -1,0 +1,25 @@
+body {
+    background-image: url("images\ \(2\).jpg");
+    color: white;
+}
+
+button {
+    background-image: url("images\ \(2\).jpg");
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    font-size: 20px;
+    padding: 7px;
+}
+
+#camera {
+    background-image: url("images\ \(2\).jpg");
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    width: 425px !important;
+    height: 325px !important;
+}
+p{
+    font-size:22px;
+}
