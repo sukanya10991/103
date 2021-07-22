@@ -8,7 +8,7 @@ button {
     border-style: solid;
     border-width: 1px;
     border-color: white;
-    font-size: 20px;
+    font-size: 22px;
     padding: 7px;
 }
 
@@ -21,5 +21,8 @@ button {
     height: 325px !important;
 }
 p{
+    font-size:32px !important;
+}
+div{
     font-size:22px;
 }
